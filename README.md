@@ -18,3 +18,7 @@ Please implement delivery as an standalone service (just like the random joke se
 ![](Micropos.svg)
 
 Consider the advantage by doing so and write it down in your readme file.
+
+## Intergration 的优点
+
+允许消息异步传递，可以支持消息驱动的架构，使得业务组件与基础设施隔离，提高了可扩展性。
